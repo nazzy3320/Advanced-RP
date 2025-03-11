@@ -35,5 +35,3 @@ export default function AdvancedRP() {
     </div>
   );
 }
-
-// Добавьте этот файл в ваш репозиторий GitHub и настройте проект с помощью Vite или Next.js.
